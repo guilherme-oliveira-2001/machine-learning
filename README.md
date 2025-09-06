@@ -16,7 +16,7 @@ Praticar a regressão linear múltipla utilizando ambos os modelos e entender co
 ## 📁 O que você vai encontrar aqui
 
 - `regressao_linear_sklearn_e_OLS.py` — Script principal com os dois modelos de regressão;
-- `baae_funcionarios.csv` — Base de dados usada para treinar e testar os modelos.
+- `baae_funcionarios.csv` — Base de dados utilizada para treinar e testar os modelos.
 
 ---
 
